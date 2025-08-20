@@ -3,7 +3,7 @@
 
 ## **Main Repository README.md Template**
 
-```markdown
+
 # AWS Website Deployment Series
 
 This repository demonstrates my journey in deploying websites on **AWS**, progressing from a **basic EC2 deployment** to a **production-ready setup**.
