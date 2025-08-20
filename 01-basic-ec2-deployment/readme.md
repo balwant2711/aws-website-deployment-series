@@ -47,7 +47,7 @@ sudo systemctl enable httpd
 <img width="1439" height="808" alt="Screenshot 2025-08-19 142132" src="https://github.com/user-attachments/assets/00853188-3d43-4265-9734-b373bd45853d" />
 
 
-###💡 Key Learnings
+### 💡 Key Learnings
 
 - Launching and configuring AWS EC2 instance.
 
